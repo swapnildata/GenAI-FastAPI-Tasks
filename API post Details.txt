@@ -1,0 +1,43 @@
+Use the following URL's post method for using GenAI:
+http://127.0.0.1:8000/Prompt
+
+**********************************************************************************************************
+
+{
+    "Question": "Consider you are a bank accountant.Generate a balance sheet and available balance from data for each account in format {balance_sheet_format}.Do the calculations very precisely and carefully. Account_Names = {Account_names}, Account_Numbers ={Account_numbers}Transaction_details={Transaction_details}. Also consider the same person could have multiple accounts with same user_id but with different account_id.",
+    "Files_To_Read": [
+        {
+            "file": "Account_names",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Account_names.txt"
+        },
+        {
+            "file": "Account_numbers",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Account_numbers.txt"
+        },
+        {
+            "file": "Transaction_details",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Transaction_details.txt"
+        },
+        {
+            "file": "balance_sheet_format",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Format.txt"
+        }
+    ],
+    "Temp": 0.7
+}
+
+**************************************************************************************************************
+
+{
+    "Question": "Generate the code for perform the multiclass classification for the dataframe 'df' which is already imported. Load the dataset using following:'iris = load_iris() and df = pd.DataFrame(data=iris.data, columns=iris.feature_names) '.Use the steps mentioned in document. Also perform the visualization using matplotlib and seaborn in EDA step. 'species' is the name of dependant column. Import the necessary libraries also. document={ML_steps}",
+    "Files_To_Read": [
+        {
+            "file": "ML_steps",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\ML steps for IRIS.txt"
+        }
+    ],
+    "Temp": 0.4
+}
+
+
+**************************************************************************************************************

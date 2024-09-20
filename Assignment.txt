@@ -1,0 +1,12 @@
+There are 3 JSON file- 
+Account name, numbers and transactions. 
+
+1. Create a prompt that will generate a balance sheet and available balance for each account.
+Required - A single prompt that will provide the above said output, output info.
+
+2. Create a prompt that will analyze the transactions and give behavioral insights on the customers.
+Add the insights in the account name JSON for each person.
+Required - A single prompt that will provide the above said output, output JSON.
+
+Note - The output should only be a JSON file. It should not include any other text above or below the JSON.
+

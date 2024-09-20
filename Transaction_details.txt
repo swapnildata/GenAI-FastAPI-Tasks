@@ -1,0 +1,177 @@
+[
+    {
+        "transaction_id": "111222",
+        "account_id": "987654",
+        "date": "2024-07-01",
+        "amount": -200.00,
+        "description": "ATM Withdrawal"
+    },
+    {
+        "transaction_id": "333444",
+        "account_id": "987654",
+        "date": "2024-07-02",
+        "amount": 500.00,
+        "description": "Salary Deposit"
+    },
+    {
+        "transaction_id": "555666",
+        "account_id": "654321",
+        "date": "2024-07-03",
+        "amount": -50.00,
+        "description": "Grocery Store"
+    },
+    {
+        "transaction_id": "777888",
+        "account_id": "321987",
+        "date": "2024-07-04",
+        "amount": -100.00,
+        "description": "Online Purchase"
+    },
+    {
+        "transaction_id": "999000",
+        "account_id": "321987",
+        "date": "2024-07-05",
+        "amount": 200.00,
+        "description": "Freelance Payment"
+    },
+    {
+        "transaction_id": "123789",
+        "account_id": "987654",
+        "date": "2024-07-06",
+        "amount": -300.00,
+        "description": "Car Repair"
+    },
+    {
+        "transaction_id": "456012",
+        "account_id": "987654",
+        "date": "2024-07-07",
+        "amount": -150.00,
+        "description": "Dining Out"
+    },
+    {
+        "transaction_id": "789345",
+        "account_id": "987654",
+        "date": "2024-07-08",
+        "amount": -100.00,
+        "description": "Gas Station"
+    },
+    {
+        "transaction_id": "112233",
+        "account_id": "987654",
+        "date": "2024-07-09",
+        "amount": -250.00,
+        "description": "Electricity Bill"
+    },
+    {
+        "transaction_id": "445566",
+        "account_id": "987654",
+        "date": "2024-07-10",
+        "amount": -200.00,
+        "description": "Water Bill"
+    },
+    {
+        "transaction_id": "778899",
+        "account_id": "987654",
+        "date": "2024-07-11",
+        "amount": -50.00,
+        "description": "Internet Bill"
+    },
+    {
+        "transaction_id": "990011",
+        "account_id": "987654",
+        "date": "2024-07-12",
+        "amount": 300.00,
+        "description": "Freelance Payment"
+    },
+    {
+        "transaction_id": "123456",
+        "account_id": "654321",
+        "date": "2024-07-13",
+        "amount": -100.00,
+        "description": "Shopping"
+    },
+    {
+        "transaction_id": "789012",
+        "account_id": "654321",
+        "date": "2024-07-14",
+        "amount": -75.00,
+        "description": "Restaurant"
+    },
+    {
+        "transaction_id": "345678",
+        "account_id": "654321",
+        "date": "2024-07-15",
+        "amount": -30.00,
+        "description": "Coffee Shop"
+    },
+    {
+        "transaction_id": "901234",
+        "account_id": "987654",
+        "date": "2024-07-16",
+        "amount": -120.00,
+        "description": "Clothing Store"
+    },
+    {
+        "transaction_id": "567890",
+        "account_id": "654321",
+        "date": "2024-07-17",
+        "amount": -60.00,
+        "description": "Pharmacy"
+    },
+    {
+        "transaction_id": "345678",
+        "account_id": "321987",
+        "date": "2024-07-18",
+        "amount": 300.00,
+        "description": "Stock Dividends"
+    },
+    {
+        "transaction_id": "789012",
+        "account_id": "321987",
+        "date": "2024-07-19",
+        "amount": -40.00,
+        "description": "Gym Membership"
+    },
+    {
+        "transaction_id": "123456",
+        "account_id": "321987",
+        "date": "2024-07-20",
+        "amount": -60.00,
+        "description": "Restaurant"
+    },
+    {
+        "transaction_id": "654321",
+        "account_id": "321987",
+        "date": "2024-07-21",
+        "amount": 500.00,
+        "description": "Freelance Payment"
+    },
+    {
+        "transaction_id": "567890",
+        "account_id": "987654",
+        "date": "2024-07-22",
+        "amount": -80.00,
+        "description": "Movie Tickets"
+    },
+    {
+        "transaction_id": "345678",
+        "account_id": "987654",
+        "date": "2024-07-23",
+        "amount": -50.00,
+        "description": "Fast Food"
+    },
+    {
+        "transaction_id": "901234",
+        "account_id": "987654",
+        "date": "2024-07-24",
+        "amount": -90.00,
+        "description": "Gas Station"
+    },
+    {
+        "transaction_id": "789012",
+        "account_id": "321987",
+        "date": "2024-07-25",
+        "amount": 400.00,
+        "description": "Freelance Payment"
+    }
+]

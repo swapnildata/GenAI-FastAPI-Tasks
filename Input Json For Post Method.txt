@@ -1,0 +1,33 @@
+{
+    "Question": "Consider you are a bank accountant.Generate a balance sheet and available balance from data for each account in format {balance_sheet_format}.Do the calculations very precisely and carefully. Account_Names = {Account_names}, Account_Numbers ={Account_numbers}Transaction_details={Transaction_details}. Also consider the same person could have multiple accounts with same user_id but with different account_id.",
+    "Files_To_Read": [
+        {
+            "file": "Account_names",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Account_names.txt"
+        },
+        {
+            "file": "Account_numbers",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Account_numbers.txt"
+        },
+        {
+            "file": "Transaction_details",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Transaction_details.txt"
+        },
+        {
+            "file": "balance_sheet_format",
+            "location": "C:\\Users\\SwapnilPowar\\Desktop\\GenAI+FastAPI Tasks\\GenFastAPI\\Lib\\Format.txt"
+        }
+    ],
+    "Temp": 0.7
+}
+
+
+****************************************************************************************************************************************************
+
+{
+    "Question": "Give an essay about taj mahal",
+    "Files_To_Read": null,
+    "Temp": 0.9
+}
+
+****************************************************************************************************************************************************

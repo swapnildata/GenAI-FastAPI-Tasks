@@ -1,0 +1,20 @@
+{
+  Name: Name of the account holder,
+  Account_ID: Account Id number of the account,
+  account_type: Type of account i.e. savings, checking,
+  Total_debit: Total amount debited from account,
+  Total_Credit: Total amount credited to account,
+  Available_Balance: Take the balance from data 'Numbers_of_the_accounts'. Add the Total_Credit
+  in it and substract the Total_debit from balance. The final value would be available balance.
+  Balance_sheet:
+  [
+    Action: Amount debited or credited (negative means debited and positive means credited),
+    Description: Reason for credit or debit action,
+    Date: Date at which action takes place
+  ],
+  [
+    Action: Amount debited or credited (negative means debited and positive means credited),
+    Description: Reason for credit or debit action,
+    Date: Date at which action takes place
+  ]
+}

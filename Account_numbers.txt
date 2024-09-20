@@ -1,0 +1,20 @@
+[
+    {
+        "account_id": "987654",
+        "user_id": "123456",
+        "account_type": "savings",
+        "balance": 1500.75
+    },
+    {
+        "account_id": "654321",
+        "user_id": "123456",
+        "account_type": "checking",
+        "balance": 250.00
+    },
+    {
+        "account_id": "321987",
+        "user_id": "789012",
+        "account_type": "savings",
+        "balance": 2000.50
+    }
+]
